@@ -1,0 +1,14 @@
+[
+    {
+        "expenditureDate": "2025/06/10",
+        "expenditureAmount": 1000,
+        "expenditureCategory": "食費",
+        "expenditureMemo": ""
+    },
+    {
+        "expenditureDate":"2025/06/14",
+        "expenditureAmount": 34000,
+        "expenditureCategory": "クレカ支払い",
+        "expenditureMemo": "りそな"
+    }
+]

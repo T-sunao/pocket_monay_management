@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443936303508",
+    "project_id": "pocket-money-management-c1fa9",
+    "storage_bucket": "pocket-money-management-c1fa9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443936303508:android:d2f27f147dd206b92c0781",
+        "android_client_info": {
+          "package_name": "com.example.pocket_monay_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8uftL2N_Bu_nwVztu-41PGqAMe8PLf-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
